@@ -39,7 +39,7 @@ func main() {
 }
 
 func usageAndDie() {
-	fmt.Fprintln(os.Stderr, "usage: secret-sender send|receive")
+	fmt.Fprintln(os.Stderr, "usage: secret-sender send|receive-boop")
 	os.Exit(1)
 }
 
