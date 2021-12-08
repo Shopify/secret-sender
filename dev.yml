@@ -2,7 +2,7 @@ name: secret-sender
 
 up:
   - go:
-      version: "1.12.9"
+      version: 1.17.4
 
 build: make
 
