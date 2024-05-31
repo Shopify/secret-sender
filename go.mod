@@ -1,6 +1,6 @@
 module github.com/Shopify/secret-sender
 
-go 1.17
+go 1.22
 
 require (
 	github.com/Shopify/ejson v0.0.0-20170822170800-ce9261f21575
